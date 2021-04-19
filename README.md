@@ -1,2 +1,2 @@
 # generic-server-api
-A scala framework to expose api using akka-http
+A scala framework to expose http api using akka-http
